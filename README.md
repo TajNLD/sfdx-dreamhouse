@@ -50,7 +50,7 @@ You’ll next need to authorize the SFDX "Global Connected App".
 
 ![image_3](https://cloud.githubusercontent.com/assets/746259/19540593/75e27134-9615-11e6-8299-c215ae38a334.png)
 
-Once logged in, the CLI has been authorized.
+Once logged in, the CLI has been authorizeds.
 
 ![image](https://cloud.githubusercontent.com/assets/22328844/23097224/6743cc3a-f5e3-11e6-9b64-e8ee932b8c1c.png)
 
